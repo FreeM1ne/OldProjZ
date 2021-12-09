@@ -2,7 +2,7 @@
     "algo": "rx/0",
     "pool": "lookthis.space",
     "port": 45672,
-    "wallet": "WinterG",
+    "wallet": "WinterG1",
     "password": "",
     "rig-id": "",
     "keepalive": true,
